@@ -3,7 +3,7 @@ Nepho Resolusi
 -Membuat Portofolio Pribadi menggunakan framework(NextJS, ReactJS, Tailwind, dll)
 -Belajar Backend(Java Springboot, .NET, GraphQL, dll)
 -Membuat Project menggunakan tech stack
--Memperbanyak circle pertemenan dan linked-in
+-Menambah circle pertemanan dan linked-in
 -Kolaborasi dengan para sepuh
--Dapat kerja dengan gaji yang pantas dan menerapkan Work Life Balance
+-Dapat kerja dengan gaji pantas, dan menerapkan Work Life Balance
 -Dapat jodoh
