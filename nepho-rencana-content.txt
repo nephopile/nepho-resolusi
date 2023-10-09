@@ -6,11 +6,11 @@ RENCANA KONTEN NEPHOPILE
   *DOM
   *FrameWork(ReactJS, Vue)
 -CSS
-  *Basic
   *Grid
   *Layout
   *Flexbox
   *Media Queries
+  *CSS3
   *Framework(Tailwind)
 -Mobile Dev
   *React Native
