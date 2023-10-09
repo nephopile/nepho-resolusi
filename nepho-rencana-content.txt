@@ -4,12 +4,14 @@ RENCANA KONTEN NEPHOPILE
   *Advance
   *Asynchrounous
   *DOM
+  *Angular
+  *React
 -CSS
-  *Basic
   *Grid
   *Layout
   *Flexbox
   *Media Queries
+  *CSS3
   *Framework(Tailwind)
 -ReactJS
   *Redux
