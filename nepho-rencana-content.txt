@@ -4,6 +4,7 @@ RENCANA KONTEN NEPHOPILE
   *Advance
   *Asynchrounous
   *DOM
+  *FrameWork(ReactJS, Vue)
 -CSS
   *Basic
   *Grid
@@ -11,6 +12,5 @@ RENCANA KONTEN NEPHOPILE
   *Flexbox
   *Media Queries
   *Framework(Tailwind)
--ReactJS
-  *Redux
-  *Hooks
+-Mobile Dev
+  *React Native
