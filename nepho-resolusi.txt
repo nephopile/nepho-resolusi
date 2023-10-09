@@ -1,7 +1,9 @@
 Nepho Resolusi
 -Memperdalam dan mengejar ketertinggalan materi front end
 -Membuat Portofolio Pribadi menggunakan framework(NextJS, ReactJS, Tailwind, dll)
+-Belajar Backend(Java Springboot, .NET, GraphQL, dll)
 -Membuat Project menggunakan tech stack
 -Memperbanyak circle pertemenan dan linked-in
+-Kolaborasi dengan para sepuh
 -Dapat kerja dengan gaji yang pantas dan menerapkan Work Life Balance
 -Dapat jodoh
