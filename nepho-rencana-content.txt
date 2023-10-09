@@ -1,4 +1,16 @@
 RENCANA KONTEN NEPHOPILE
--Javascript (Basic, Advance, Asynchrounous, DOM)
--CSS (Basic, Grid, Layout, Flexbox, Media Queries, Framework(Tailwind))
--ReactJS(Hooks, Redux)
+-Javascript
+  *Basic
+  *Advance
+  *Asynchrounous
+  *DOM
+-CSS
+  *Basic
+  *Grid
+  *Layout
+  *Flexbox
+  *Media Queries
+  *Framework(Tailwind)
+-ReactJS
+  *Redux
+  *Hooks
